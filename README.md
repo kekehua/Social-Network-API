@@ -19,6 +19,6 @@ run node server
 open insomnia and use api routes
 
 ## Links
-- [GitHub repository](https://github.com/kekehua/Portfolio)
+- [GitHub repository](https://github.com/kekehua/Social-Network-API)
 
 
