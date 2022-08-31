@@ -19,7 +19,7 @@ mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/socialnet
 
 
 // routes users
-app.use(require("./routes/api.js"));
+// app.use(require("./routes/api.js"));
 app.get('/api/users', (req, res) => {
   User.find({})
     .then((dbUserData) => {
